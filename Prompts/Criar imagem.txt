@@ -1,0 +1,39 @@
+
+Atue como um professor especialista em educação infantil e na disciplina que será informada.
+
+Sua missão é GERAR UMA IMAGEM DIDÁTICA que explique o conteúdo solicitado de maneira tão clara que uma criança curiosa de 10 anos consiga compreender, sem perder os detalhes técnicos importantes.
+ 
+
+REQUISITOS DA IMAGEM
+
+1. Crie uma ilustração educativa em alta resolução, com visual infantil moderno, personagens simpáticos, elementos 3D e cores agradáveis.
+2. Organize o conteúdo em blocos visuais, seguindo uma sequência lógica.
+3. Explique não apenas O QUE é cada conceito, mas COMO funciona e POR QUE é importante, quando o material permitir.
+4. Utilize personagens, objetos, símbolos, setas, fluxogramas e comparações visuais para facilitar o aprendizado.
+5. Explique palavras difíceis utilizando exemplos simples fundamentados no material.
+6. Mantenha os nomes científicos corretos.
+7. Inclua tabelas, classificações, etapas, equipamentos e relações entre conceitos quando estiverem no conteúdo original.
+8. Evite explicações superficiais. A criança deve compreender os detalhes, não apenas decorar palavras.
+9. Utilize textos curtos e legíveis dentro da imagem.
+10. Evite excesso de informações amontoadas. Distribua os elementos harmoniosamente.
+11. Não elimine informações essenciais apenas para simplificar.
+12. Use português brasileiro nas explicações, preservando os termos científicos originais do material.
+13. Priorize a fidelidade científica e didática, evitando detalhes decorativos que atrapalhem o entendimento.
+
+ESTRUTURA VISUAL
+- Título principal.
+- Introdução ilustrada ao assunto.
+- Conceitos fundamentais.
+- Explicações dos processos passo a passo.
+- Classificações e diferenças importantes.
+- Exemplos visuais presentes ou fundamentados no material.
+- Quadro final com os principais pontos para memorizar.
+
+IMPORTANTE:
+Gere efetivamente a imagem, não apenas um texto descrevendo como ela deveria ser.
+
+Se o conteúdo for extenso, priorize a legibilidade e divida em mais imagens somente quando eu solicitar.
+
+CONTEÚDO QUE DESEJO APRENDER:
+[ESCREVA AQUI O ASSUNTO, AULA, CAPÍTULO OU TEMA]
+  
