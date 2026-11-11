@@ -10,7 +10,7 @@ Nossa missão é descobrir o que causa a dengue, como ela é transmitida, o que 
 
 ## 2. Entendendo o assunto do zero
 
-### Dengue é uma doença causada por quê?
+ ### Dengue é uma doença causada por quê?
 
 A dengue é causada pelo **vírus da dengue (DENV)**. Existem quatro sorotipos: **DENV-1, DENV-2, DENV-3 e DENV-4**. Não é uma infecção provocada por helmintos ou protozoários: é **viral**.
 
